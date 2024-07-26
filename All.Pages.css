@@ -1,0 +1,11 @@
+.nav {
+    background-color: red;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    width: 100%;
+    text-align: center;
+}
+
+.nav a {
+    padding: 6%;
+}
