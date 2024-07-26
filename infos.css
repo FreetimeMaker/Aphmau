@@ -1,0 +1,142 @@
+body {
+    background: radial-gradient(
+        circle,
+        rgb(1,1,1,1) 12.5%,
+        rgb(61,9,121,1) 30%,
+        rgb(255,0,0,1) 25%,
+        rgb(255,0,185,1) 35%,
+        rgb(0, 255, 221) 40%,
+        rgb(255,175,0,1) 45%,
+        rgb(0,181,255,1) 50%,
+        rgb(0,14,255,1) 20%
+    );
+}
+
+.Home {
+    font-size: 3em;
+    color: purple;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Quiz {
+    font-size: 3em;
+    color: aqua;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Roboto", sans-serif;
+}
+
+.Info {
+    font-size: 3em;
+    color: pink;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Anton", sans-serif;
+}
+
+.Media {
+    font-size: 3em;
+    color: orange;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Playwrite AT", cursive;
+}
+
+.YouTube:hover {
+    color: pink;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Amazon:hover {
+    color: red;
+    text-align: center;
+     font-weight: bold;
+    font-style: italic;
+    font-family: "Roboto", sans-serif;
+}
+
+.Instagram:hover {
+    color: aquamarine;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Anton", sans-serif;
+}
+
+.AphMeow:hover {
+    color: blue;
+    text-align: center;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Playwrite AT", cursive;
+}
+
+.Start {
+    font-size: 2em;
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Friends {
+    font-size: 2em;
+    color: orange;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Roboto", sans-serif;
+}
+
+.Friends_Name {
+    font-size: 2em;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Anton", sans-serif;
+}
+
+.Fact_1 {
+    font-size: 2em;
+    color: aqua;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Playwrite AT", cursive;
+}
+
+.Fact_2 {
+    font-size: 2em;
+    color: pink;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Align {
+    max-width: 100%;
+    text-align: center;
+}
+
+.infogrid {
+    display: grid;
+    grid-template-columns: 	repeat(auto-fill, minmax(500px, 1fr));
+}
+
+.infoElement {
+    border: 2px solid pink;
+    padding: 3%;
+}
+
+h1 {
+    color: pink;
+}
+
+img {
+    max-width: 250px;
+    max-height: 300px;
+    margin: 10px;
+}
