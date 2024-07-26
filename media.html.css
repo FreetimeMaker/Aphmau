@@ -1,0 +1,73 @@
+body {
+    background: radial-gradient(
+        circle,
+        rgb(1,1,1,1) 12.5%,
+        rgb(61,9,121,1) 30%,
+        rgb(255,0,0,1) 25%,
+        rgb(255,0,185,1) 35%,
+        rgb(0, 255, 221) 40%,
+        rgb(255,175,0,1) 45%,
+        rgb(0,181,255,1) 50%,
+        rgb(0,14,255,1) 20%
+    );
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.Home {
+    font-size: 3em;
+    color: purple;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Quiz {
+    font-size: 3em;
+    color: aqua;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Roboto", sans-serif;
+}
+
+.Info {
+    font-size: 3em;
+    color: pink;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Anton", sans-serif;
+}
+
+.Media {
+    font-size: 3em;
+    color: orange;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Playwrite AT", cursive;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    align-items: center;
+    grid-gap: 10px;
+    margin-top: 10px;
+}
+
+img {
+    max-width: 100%;
+    max-height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+iframe {
+    aspect-ratio: 16/9;
+    max-width: 100%;
+    max-height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
