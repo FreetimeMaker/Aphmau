@@ -1,10 +1,10 @@
-.r4 {
-    width: 100%;
+.r3 {
+    width: 33.3%;
     height: 25%;
 }
 
-.c4 {
-    width: 25%;
+.c3 {
+    width: 33.3%;
     height: 100%;
     position: relative;
     float: left;
