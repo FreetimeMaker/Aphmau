@@ -1,0 +1,18 @@
+body {
+  background-image: url("https://onedrive.live.com/embed?resid=FB2B769EC8CC7929%2170337&authkey=%21AP-a10iHXXkQmUk&width=200&height=200")
+  background-repeat: no-repeat;
+  position: center;
+  background-size: cover;
+}
+
+.nav {
+    background-color: red;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    width: 100%;
+    text-align: center;
+}
+
+.nav a {
+    padding: 6%;
+}
