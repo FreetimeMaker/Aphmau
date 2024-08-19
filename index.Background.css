@@ -91,10 +91,10 @@ img:hover {
 .Programmieren {
     text-align: center;
     font-size: 3em;
-    color: pink;
+    color: red;
     font-weight: bold;
     font-style: italic;
     text-decoration: underline;
-    text-decoration-color: black;
+    text-decoration-color: purple;
     font-family: "Pixelify Sans", sans-serif;
 }
