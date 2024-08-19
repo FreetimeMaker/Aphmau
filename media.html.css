@@ -47,6 +47,14 @@ body {
     font-family: "Playwrite AT", cursive;
 }
 
+.Programmieren {
+    font-size: 3em;
+    color: purple;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
 .grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
