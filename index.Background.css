@@ -87,3 +87,14 @@ img:hover {
     text-decoration-color: black;
     font-family: "Anton", sans-serif;
 }
+
+.Programmieren {
+    text-align: center;
+    font-size: 3em;
+    color: pink;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: black;
+    font-family: "Pixelify Sans", sans-serif;
+}
