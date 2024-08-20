@@ -1,0 +1,39 @@
+.Home {
+    font-size: 3em;
+    color: purple;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Quiz {
+    font-size: 3em;
+    color: aqua;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Roboto", sans-serif;
+}
+
+.Info {
+    font-size: 3em;
+    color: pink;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Anton", sans-serif;
+}
+
+.Media {
+    font-size: 3em;
+    color: orange;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Playwrite AT", cursive;
+}
+
+.Aphmau {
+    font-size: 3em;
+    color: purple;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
