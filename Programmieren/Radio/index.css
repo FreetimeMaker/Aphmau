@@ -1,10 +1,10 @@
 .r3 {
     width: 100%;
-    height: 33.3%;
+    height: 25%;
 }
 
 .c4 {
-    width: 33.3%;
+    width: 25%;
     height: 100%;
     position: relative;
     float: left;
@@ -83,8 +83,4 @@ img:hover {
     text-decoration: underline;
     text-decoration-color: purple;
     font-family: "Pixelify Sans", sans-serif;
-}
-
-.c4 {
-    padding: 4%;
 }
