@@ -56,3 +56,14 @@
     -webkit-text-stroke-color: pink;
     -webkit-text-stroke-width: 0.125px;
 }
+
+.Argovia {
+    text-align: center;
+    font-size: 3em;
+    color: aqua;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: orange;
+    font-family: "Roboto", sans-serif;
+}
