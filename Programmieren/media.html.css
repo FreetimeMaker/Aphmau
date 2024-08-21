@@ -46,3 +46,11 @@ iframe {
     margin-left: auto;
     margin-right: auto;
 }
+
+.Aphmau {
+    font-size: 3em;
+    color: purple;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
