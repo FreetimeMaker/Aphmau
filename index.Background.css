@@ -57,7 +57,7 @@ img:hover {
 
 .Info {
     text-align: center;
-    font-size: 3em;
+    font-size: 1.5em;
     color: purple;
     font-weight: bold;
     font-style: italic;
@@ -68,7 +68,7 @@ img:hover {
 
 .Quiz {
     text-align: center;
-    font-size: 3em;
+    font-size: 1.5em;
     color: aqua;
     font-weight: bold;
     font-style: italic;
@@ -79,7 +79,7 @@ img:hover {
 
 .Media {
     text-align: center;
-    font-size: 3em;
+    font-size: 1.5em;
     color: pink;
     font-weight: bold;
     font-style: italic;
@@ -90,7 +90,7 @@ img:hover {
 
 .Programmieren {
     text-align: center;
-    font-size: 3em;
+    font-size: 1.5em;
     color: red;
     font-weight: bold;
     font-style: italic;
@@ -101,7 +101,7 @@ img:hover {
 
 .Radio {
     text-align: center;
-    font-size: 3em;
+    font-size: 1.5em;
     color: aqua;
     font-weight: bold;
     font-style: italic;
