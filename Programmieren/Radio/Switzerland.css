@@ -96,3 +96,14 @@
     text-decoration-color: black;
     font-family: "Playwrite AT", cursive;
 }
+
+.Basilisk {
+    text-align: center;
+    font-size: 3em;
+    color: aqua;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: orange;
+    font-family: "Roboto", sans-serif;
+}
