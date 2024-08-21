@@ -1,6 +1,6 @@
 .Pilatus {
     text-align: center;
-    font-size: 3em;
+    font-size: 1.5em;
     color: purple;
     font-weight: bold;
     font-style: italic;
@@ -44,15 +44,13 @@
 
 .Radio {
     text-align: center;
-    font-size: 3em;
+    font-size: 1.5em;
     color: purple;
     font-weight: bold;
     font-style: italic;
     text-decoration: underline;
     text-decoration-color: black;
     font-family: "Playwrite AT", cursive;
-    -webkit-text-stroke-color: pink;
-    -webkit-text-stroke-width: 0.125px;
 }
 
 .Argovia {
