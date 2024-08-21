@@ -79,3 +79,11 @@ iframe {
     margin-left: auto;
     margin-right: auto;
 }
+
+.Radio {
+    font-size: 3em;
+    color: aqua;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Roboto", sans-serif;
+}
