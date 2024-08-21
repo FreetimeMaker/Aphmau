@@ -148,3 +148,11 @@ img {
     max-height: 300px;
     margin: 10px;
 }
+
+.Radio {
+    font-size: 3em;
+    color: aqua;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Roboto", sans-serif;
+}
