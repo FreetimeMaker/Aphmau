@@ -70,6 +70,14 @@ body {
     border-radius: 40px;
 }
 
+.Radio {
+    font-size: 3em;
+    color: aqua;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Roboto", sans-serif;
+}
+
 p {
     color: purple;
     font-weight: bold;
