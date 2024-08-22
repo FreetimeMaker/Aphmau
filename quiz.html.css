@@ -78,6 +78,13 @@ body {
     font-family: "Roboto", sans-serif;
 }
 
+.Apps {
+    font-size: 2em;
+    color: Pink;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Anton", sans-serif;
+}
 p {
     color: purple;
     font-weight: bold;
