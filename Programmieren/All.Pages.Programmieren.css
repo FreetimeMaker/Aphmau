@@ -1,0 +1,18 @@
+body {
+  background-image: url("https://it-talents.de/wp-content/uploads/2018/08/programmieren_lernen.jpg");
+  background-repeat: no-repeat;
+  position: center;
+  background-size: cover;
+}
+
+.nav {
+    background-color: red;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    width: 100%;
+    text-align: center;
+}
+
+.nav a {
+    padding: 1%;
+}

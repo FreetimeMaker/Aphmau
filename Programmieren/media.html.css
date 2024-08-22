@@ -1,0 +1,64 @@
+.Home {
+    font-size: 3em;
+    color: purple;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Presentation {
+    font-size: 3em;
+    color: pink;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Anton", sans-serif;
+}
+
+.Media {
+    font-size: 3em;
+    color: orange;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Playwrite AT", cursive;
+}
+
+.Radio {
+    font-size: 3em;
+    color: purple;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    align-items: center;
+    grid-gap: 10px;
+    margin-top: 10px;
+}
+
+iframe {
+    aspect-ratio: 16/9;
+    max-width: 100%;
+    max-height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Aphmau {
+    font-size: 3em;
+    color: purple;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Apps {
+    font-size: 2em;
+    color: Pink;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Anton", sans-serif;
+}
