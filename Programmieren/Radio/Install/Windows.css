@@ -23,7 +23,7 @@
 .Programmieren {
     text-align: center;
     font-size: 3em;
-    color: red;
+    color: black;
     font-weight: bold;
     font-style: italic;
     text-decoration: underline;
@@ -40,4 +40,15 @@
     text-decoration: underline;
     text-decoration-color: orange;
     font-family: "Roboto", sans-serif;
+}
+
+.Home {
+    text-align: center;
+    font-size: 3em;
+    color: pink;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: black;
+    font-family: "Anton", sans-serif;
 }
