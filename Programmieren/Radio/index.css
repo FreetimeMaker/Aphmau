@@ -95,3 +95,11 @@ img:hover {
     text-decoration-color: orange;
     font-family: "Roboto", sans-serif;
 }
+
+.Apps {
+    font-size: 2em;
+    color: Pink;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Anton", sans-serif;
+}
