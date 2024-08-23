@@ -164,3 +164,11 @@ img {
     font-style: italic;
     font-family: "Anton", sans-serif;
 }
+
+.Install {
+    font-size: 2em;
+    color: aqua;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Playwrite AT", cursive;
+}
