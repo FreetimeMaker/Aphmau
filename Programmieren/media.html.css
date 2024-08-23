@@ -62,3 +62,11 @@ iframe {
     font-style: italic;
     font-family: "Anton", sans-serif;
 }
+
+.Install {
+    font-size: 3em;
+    color: purple;
+    font-weight: bold;
+    font-style: italic;
+    font-family: "Pixelify Sans", sans-serif;
+}
