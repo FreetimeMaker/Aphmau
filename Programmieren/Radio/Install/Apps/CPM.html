@@ -1,0 +1,78 @@
+<head>
+    <link rel="stylesheet" href="CPM.css">
+    <link rel="stylesheet" href="All.Pages.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playwrite+AT:ital,wght@0,100..400;1,100..400&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/x-icon" href="../favicon.ico">
+</head>
+<body>
+    <div class="nav">
+        <a class="Home" href="Android.Spiele.html"> Home </a>
+    </div>
+    <a class="ZIP" href="#" onclick="downloadFiles()">Install SnackBar and the additional Files.</a>
+
+    <script>
+        function downloadFiles() {
+            // Liste der Dateien, die heruntergeladen werden sollen
+            const files = [
+                'car-parking-multiplayer-4-8-19-4.zip.001',
+                'car-parking-multiplayer-4-8-19-4.zip.002',
+                'car-parking-multiplayer-4-8-19-4.zip.003',
+                'car-parking-multiplayer-4-8-19-4.zip.004',
+                'car-parking-multiplayer-4-8-19-4.zip.005',
+                'car-parking-multiplayer-4-8-19-4.zip.006',
+                'car-parking-multiplayer-4-8-19-4.zip.007',
+                'car-parking-multiplayer-4-8-19-4.zip.008',
+                'car-parking-multiplayer-4-8-19-4.zip.009',
+                'car-parking-multiplayer-4-8-19-4.zip.010',
+                'car-parking-multiplayer-4-8-19-4.zip.011',
+                'car-parking-multiplayer-4-8-19-4.zip.012',
+                'car-parking-multiplayer-4-8-19-4.zip.013',
+                'car-parking-multiplayer-4-8-19-4.zip.014',
+                'car-parking-multiplayer-4-8-19-4.zip.015',
+                'car-parking-multiplayer-4-8-19-4.zip.016',
+                'car-parking-multiplayer-4-8-19-4.zip.017',
+                'car-parking-multiplayer-4-8-19-4.zip.018',
+                'car-parking-multiplayer-4-8-19-4.zip.019',
+                'car-parking-multiplayer-4-8-19-4.zip.020',
+                'car-parking-multiplayer-4-8-19-4.zip.021',
+                'car-parking-multiplayer-4-8-19-4.zip.022',
+                'car-parking-multiplayer-4-8-19-4.zip.023',
+                'car-parking-multiplayer-4-8-19-4.zip.024',
+                'car-parking-multiplayer-4-8-19-4.zip.025',
+                'car-parking-multiplayer-4-8-19-4.zip.026',
+                'car-parking-multiplayer-4-8-19-4.zip.027',
+                'car-parking-multiplayer-4-8-19-4.zip.028',
+                'car-parking-multiplayer-4-8-19-4.zip.029',
+                'car-parking-multiplayer-4-8-19-4.zip.030',
+                'car-parking-multiplayer-4-8-19-4.zip.031',
+                'car-parking-multiplayer-4-8-19-4.zip.032',
+                'car-parking-multiplayer-4-8-19-4.zip.033',
+                'car-parking-multiplayer-4-8-19-4.zip.034',
+                'car-parking-multiplayer-4-8-19-4.zip.035',
+                'car-parking-multiplayer-4-8-19-4.zip.036',
+                'car-parking-multiplayer-4-8-19-4.zip.037',
+                'car-parking-multiplayer-4-8-19-4.zip.038'
+            ];
+
+            files.forEach(function(file) {
+                const a = document.createElement('a');
+                a.href = file;
+                a.download = '';
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+            });
+        }
+    </script>
+</body>
