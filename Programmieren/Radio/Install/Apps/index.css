@@ -4,7 +4,7 @@
 }
 
 .c6 {
-    width: 11.1%;
+    width: 12.5%;
     height: 100%;
     position: relative;
     float: left;
@@ -116,17 +116,6 @@ img:hover {
     text-decoration: underline;
     text-decoration-color: orange;
     font-family: "Roboto", sans-serif;
-}
-
-.iOS {
-    text-align: center;
-    font-size: 3em;
-    color: pink;
-    font-weight: bold;
-    font-style: italic;
-    text-decoration: underline;
-    text-decoration-color: black;
-    font-family: "Anton", sans-serif;
 }
 
 .Linux {
