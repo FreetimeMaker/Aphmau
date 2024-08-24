@@ -52,3 +52,36 @@
     text-decoration-color: black;
     font-family: "Anton", sans-serif;
 }
+
+.MonopolyTycoon {
+    text-align: center;
+    font-size: 3em;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: purple;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.CPM {
+    text-align: center;
+    font-size: 1.5em;
+    color: aqua;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: orange;
+    font-family: "Roboto", sans-serif;
+}
+
+.CPM2 {
+    text-align: center;
+    font-size: 3em;
+    color: pink;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: black;
+    font-family: "Anton", sans-serif;
+}
