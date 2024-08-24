@@ -1,0 +1,54 @@
+.Copilot {
+    text-align: center;
+    font-size: 1.5em;
+    color: aqua;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: orange;
+    font-family: "Roboto", sans-serif;
+}
+
+.Defender {
+    text-align: center;
+    font-size: 3em;
+    color: pink;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: black;
+    font-family: "Anton", sans-serif;
+}
+
+.Home {
+    text-align: center;
+    font-size: 3em;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: purple;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Designer {
+    text-align: center;
+    font-size: 1.5em;
+    color: aqua;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: orange;
+    font-family: "Roboto", sans-serif;
+}
+
+.Outlook {
+    text-align: center;
+    font-size: 3em;
+    color: pink;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: black;
+    font-family: "Anton", sans-serif;
+}
