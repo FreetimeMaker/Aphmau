@@ -64,7 +64,7 @@
     font-family: "Pixelify Sans", sans-serif;
 }
 
-.YouTube {
+.Google {
     text-align: center;
     font-size: 1.5em;
     color: aqua;
@@ -108,7 +108,17 @@
     font-family: "Roboto", sans-serif;
 }
 
-.Insta {
+.Threads {
+    font-size: 1.5em;
+    color: aqua;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: orange;
+    font-family: "Roboto", sans-serif;
+}
+
+.TikTok {
     text-align: center;
     font-size: 3em;
     color: pink;
@@ -119,7 +129,7 @@
     font-family: "Anton", sans-serif;
 }
 
-.Github {
+.Twitch {
     text-align: center;
     font-size: 3em;
     color: black;
