@@ -1,15 +1,5 @@
 body {
-    background: radial-gradient(
-        circle,
-        rgb(1,1,1,1) 12.5%,
-        rgb(61,9,121,1) 30%,
-        rgb(255,0,0,1) 25%,
-        rgb(255,0,185,1) 35%,
-        rgb(0, 255, 221) 40%,
-        rgb(255,175,0,1) 45%,
-        rgb(0,181,255,1) 50%,
-        rgb(0,14,255,1) 20%
-    );
+    background-image: "https://th.bing.com/th/id/R.ff7ed568b9a33cdfc7602bcc6f849015?rik=Cw5TGQrSNiDGnQ&riu=http%3a%2f%2fwebneel.com%2fdaily%2fsites%2fdefault%2ffiles%2fimages%2fdaily%2f07-2014%2f5-best-ads-agasalho-hamburguer.jpg&ehk=QjuipE79CuTHajhNguWHJmodwSt5qf%2fQjToS7CYhhzA%3d&risl=&pid=ImgRaw&r=0";
 }
 
 .r6 {
@@ -18,7 +8,7 @@ body {
 }
 
 .c6 {
-    width: 12.5%;
+    width: 16.6%;
     height: 100%;
     position: relative;
     float: left;

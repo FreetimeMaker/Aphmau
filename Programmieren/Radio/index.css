@@ -4,7 +4,7 @@
 }
 
 .c6 {
-    width: 14.2%;
+    width: 12.5%;
     height: 100%;
     position: relative;
     float: left;
@@ -113,4 +113,15 @@ img:hover {
     text-decoration: underline;
     text-decoration-color: purple;
     font-family: "Pixelify Sans", sans-serif;
+}
+
+.ADS {
+    text-align: center;
+    font-size: 1.5em;
+    color: aqua;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: orange;
+    font-family: "Roboto", sans-serif;
 }
