@@ -1,0 +1,141 @@
+.Maps {
+    text-align: center;
+    font-size: 1.5em;
+    color: aqua;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: orange;
+    font-family: "Roboto", sans-serif;
+}
+
+.Slides {
+    text-align: center;
+    font-size: 3em;
+    color: pink;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: black;
+    font-family: "Anton", sans-serif;
+}
+
+.Home {
+    text-align: center;
+    font-size: 3em;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: purple;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.News {
+    text-align: center;
+    font-size: 1.5em;
+    color: aqua;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: orange;
+    font-family: "Roboto", sans-serif;
+}
+
+.Play.Books {
+    text-align: center;
+    font-size: 3em;
+    color: pink;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: black;
+    font-family: "Anton", sans-serif;
+}
+
+.Gemini {
+    text-align: center;
+    font-size: 3em;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: purple;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Play.Games {
+    text-align: center;
+    font-size: 1.5em;
+    color: aqua;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: orange;
+    font-family: "Roboto", sans-serif;
+}
+
+.Calendar {
+    text-align: center;
+    font-size: 3em;
+    color: pink;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: black;
+    font-family: "Anton", sans-serif;
+}
+
+.Drive {
+    text-align: center;
+    font-size: 3em;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: purple;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Keep {
+    text-align: center;
+    font-size: 1.5em;
+    color: aqua;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: orange;
+    font-family: "Roboto", sans-serif;
+}
+
+.Docs {
+    font-size: 1.5em;
+    color: aqua;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: orange;
+    font-family: "Roboto", sans-serif;
+}
+
+.YouTube.Music {
+    text-align: center;
+    font-size: 3em;
+    color: pink;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: black;
+    font-family: "Anton", sans-serif;
+}
+
+.YouTube {
+    text-align: center;
+    font-size: 3em;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: purple;
+    font-family: "Pixelify Sans", sans-serif;
+}
