@@ -45,7 +45,7 @@ img:hover {
     box-shadow: 10px 10px 10px pink;
 }
 
-.Info {
+.E-Mail {
     text-align: center;
     font-size: 1.5em;
     color: purple;
@@ -56,7 +56,7 @@ img:hover {
     font-family: "Pixelify Sans", sans-serif;
 }
 
-.Quiz {
+.Websites {
     text-align: center;
     font-size: 1.5em;
     color: aqua;
@@ -67,7 +67,7 @@ img:hover {
     font-family: "Roboto", sans-serif;
 }
 
-.Media {
+.Websites1 {
     text-align: center;
     font-size: 1.5em;
     color: pink;
@@ -78,7 +78,7 @@ img:hover {
     font-family: "Anton", sans-serif;
 }
 
-.Programmieren {
+.Programmieren {  
     text-align: center;
     font-size: 1.5em;
     color: red;
@@ -112,6 +112,39 @@ img:hover {
 }
 
 .Install {
+    text-align: center;
+    font-size: 1.5em;
+    color: red;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: purple;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+.Websites2 {
+    text-align: center;
+    font-size: 1.5em;
+    color: aqua;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: orange;
+    font-family: "Roboto", sans-serif;
+}
+
+.Websites3 {
+    text-align: center;
+    font-size: 1.5em;
+    color: pink;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: black;
+    font-family: "Anton", sans-serif;
+}
+
+.Websites4 {
     text-align: center;
     font-size: 1.5em;
     color: red;
