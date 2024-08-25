@@ -42,7 +42,7 @@
     font-family: "Roboto", sans-serif;
 }
 
-.Play.Books {
+.Play_Books {
     text-align: center;
     font-size: 3em;
     color: pink;
@@ -64,7 +64,7 @@
     font-family: "Pixelify Sans", sans-serif;
 }
 
-.Play.Games {
+.Play_Games {
     text-align: center;
     font-size: 1.5em;
     color: aqua;
@@ -118,7 +118,7 @@
     font-family: "Roboto", sans-serif;
 }
 
-.YouTube.Music {
+.YouTube_Music {
     text-align: center;
     font-size: 3em;
     color: pink;
