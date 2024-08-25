@@ -1,0 +1,44 @@
+<head>
+    <link rel="stylesheet" href="Maps.css">
+    <link rel="stylesheet" href="All.Pages.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playwrite+AT:ital,wght@0,100..400;1,100..400&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/x-icon" href="../../favicon.ico">
+</head>
+<body>
+    <div class="nav">
+        <a class="Home" href="Google.html"> Home </a>
+    </div>
+    <a class="ZIP" href="#" onclick="downloadFiles()">Install Monopoly Tycoon and the additional Files.</a>
+
+    <script>
+        function downloadFiles() {
+            // Liste der Dateien, die heruntergeladen werden sollen
+            const files = [
+                'google-maps-11-143-0304.zip.001',
+                'google-maps-11-143-0304.zip.002',
+                'google-maps-11-143-0304.zip.003',
+                'google-maps-11-143-0304.zip.004'
+            ];
+
+            files.forEach(function(file) {
+                const a = document.createElement('a');
+                a.href = file;
+                a.download = '';
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+            });
+        }
+    </script>
+</body>
