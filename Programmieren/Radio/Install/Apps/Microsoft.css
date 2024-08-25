@@ -52,3 +52,14 @@
     text-decoration-color: black;
     font-family: "Anton", sans-serif;
 }
+
+.Word {
+    text-align: center;
+    font-size: 3em;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: purple;
+    font-family: "Pixelify Sans", sans-serif;
+}
