@@ -1,0 +1,3 @@
+              - name: Upload Android Release to Amazon Appstore
+                uses: galonga/upload-amazon-appstore@v1.0.4
+            
