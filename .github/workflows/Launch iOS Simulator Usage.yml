@@ -1,0 +1,6 @@
+steps:
+  - uses: actions/checkout@v4
+  - uses: futureware-tech/simulator-action@v3
+    with:
+      model: 'iPhone 15 Pro Max'
+  - run: flutter drive
