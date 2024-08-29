@@ -1,0 +1,3 @@
+              - name: Launch iOS Simulator
+                uses: futureware-tech/simulator-action@v3
+            
