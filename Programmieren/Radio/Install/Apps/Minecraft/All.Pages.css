@@ -82,3 +82,14 @@ body {
     text-decoration-color: purple;
     font-family: "Pixelify Sans", sans-serif;
 }
+
+.Resource {
+    text-align: center;
+    font-size: 1.5em;
+    color: aqua;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: orange;
+    font-family: "Roboto", sans-serif;
+}
