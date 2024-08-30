@@ -1,3 +1,0 @@
-              - name: Swift version
-                uses: sersoft-gmbh/swift-version-action@v3.0.0
-            
