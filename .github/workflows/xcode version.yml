@@ -1,5 +1,0 @@
-steps:
-  - name: "Select the latest stable Xcode 12"
-    uses: BoundfoxStudios/action-xcode-select@v1
-    with:
-      version: "12"
