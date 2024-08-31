@@ -1,9 +1,9 @@
-.google-map {
+.Map {
      padding-bottom: 50%;
      position: relative;
 }
 
-.google-map iframe {
+.Map iframe {
      height: 100%;
      width: 100%;
      left: 0;
