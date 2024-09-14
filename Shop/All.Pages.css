@@ -48,3 +48,14 @@ body {
     text-decoration-color: orange;
     font-family: "Roboto", sans-serif;
 }
+
+.Home {
+    text-align: center;
+    font-size: 1.5em;
+    color: pink;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: black;
+    font-family: "Anton", sans-serif;
+}
