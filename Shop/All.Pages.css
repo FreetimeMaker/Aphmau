@@ -51,3 +51,54 @@ body {
         .card a:hover {
             background-color: #555;
         }
+
+.nav {
+    background-color: red;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    width: 100%;
+    text-align: center;
+}
+
+.nav a {
+    padding: 1%;
+}
+
+body {
+    background: radial-gradient(
+        circle,
+        rgb(1,1,1,1) 12.5%,
+        rgb(61,9,121,1) 30%,
+        rgb(255,0,0,1) 25%,
+        rgb(255,0,185,1) 35%,
+        rgb(0, 255, 221) 40%,
+        rgb(255,175,0,1) 45%,
+        rgb(0,181,255,1) 50%,
+        rgb(0,14,255,1) 20%
+    );
+}
+
+.r6 {
+    width: 100%;
+    height: 16.6%;
+}
+
+.c6 {
+    width: 12.5%;
+    height: 100%;
+    position: relative;
+    float: left;
+}
+
+.Titel {
+    text-align: center;
+    font-size: 5em;
+    color: purple;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: red;
+    font-family: "Playwrite AT", cursive;
+    -webkit-text-stroke-color: pink;
+    -webkit-text-stroke-width: 0.125px;
+}
